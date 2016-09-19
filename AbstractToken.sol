@@ -1,6 +1,6 @@
 pragma solidity ^0.4.0;
 
-//Title AbstractToken.sol
+// Title AbstractToken.sol
 // Implements ERC 20 Token standard: https://github.com/ethereum/EIPs/issues/20
 
 // @title Abstract token contract - Functions to be implemented by token contracts.
